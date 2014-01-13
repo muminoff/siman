@@ -7,10 +7,9 @@ Server Inventory Management
 
 
 # TODO
-
-[ ] DB model design & test
-[ ] CRUD view handlers
-[x] Initial HTML template
-[ ] Develop REST API
-[ ] Test views
-[x] Localization
+- [x] DB model design & test
+- [ ] CRUD view handlers
+- [x] Initial HTML template
+- [ ] Develop REST API
+- [ ] Test views
+- [x] Localization
