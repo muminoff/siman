@@ -21,8 +21,8 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ) 
-ROOT_URLCONF = 'salesmanagement.urls' 
-WSGI_APPLICATION = 'salesmanagement.wsgi.application' 
+ROOT_URLCONF = 'siman.urls' 
+WSGI_APPLICATION = 'siman.wsgi.application' 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
