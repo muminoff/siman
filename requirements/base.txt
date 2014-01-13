@@ -1,0 +1,5 @@
+Django==1.6.1
+Fabric==1.8.1
+South==0.8.4
+django-admin-bootstrapped==1.6.3
+django-rosetta==0.7.3

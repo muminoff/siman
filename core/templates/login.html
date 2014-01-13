@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<link href="{{ STATIC_URL }}css/login.css" rel="stylesheet">
+<h2 class="form-signin-heading text-center">Sign in with your Groupware account</h2>
+<div class="card card-signin">
+    <form class="form-signin" role="form">
+        <input type="text" class="form-control" placeholder="Email" required autofocus>
+        <input type="password" class="form-control" placeholder="Password" required>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+        <div>
+            <a href="#" class="pull-right">Need help?</a>
+            <label class="checkbox">
+                <input type="checkbox" value="remember-me"> Stay signed in
+            </label>
+        </div>
+    </form>
+</div>
+<p class="text-center muted"><small>Hanbiro Inc.</small></p>
+{% endblock %}
