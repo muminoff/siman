@@ -13,3 +13,7 @@ Server Inventory Management
 - [ ] Develop REST API
 - [ ] Test views
 - [x] Localization
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/muminoff/siman/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
