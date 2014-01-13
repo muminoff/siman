@@ -3,3 +3,5 @@
 *.pyc
 local_settings.py
 *.sqlite3
+node_modules
+bower_components
